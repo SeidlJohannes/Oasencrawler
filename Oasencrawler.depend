@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1676641065 source:m:\documents\prozd\2_semester\oasencrawler\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1676915022 source:d:\1_alles_um_fh\prozeduale sprachen\2_semester\oasencrawler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1708783561 source:d:\1_alles_um_fh\semester2\obprg\oasencrawler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
